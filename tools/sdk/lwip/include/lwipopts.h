@@ -41,6 +41,9 @@
 #define PBUF_RSV_FOR_WLAN
 #define EBUF_LWIP
 
+#define DNS_LOCAL_HOSTLIST 1
+#define DNS_LOCAL_HOSTLIST_IS_DYNAMIC 1
+
 /*
    -----------------------------------------------
    ---------- Platform specific locking ----------
